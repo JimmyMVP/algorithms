@@ -3,7 +3,6 @@ Calculate number of permutations of a string.
 Also calculate factorial to check if the solution is correct
 """
 
-
 def factorial(x):
     fac = 1
     for i in range(1,x+1):
